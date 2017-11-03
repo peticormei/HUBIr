@@ -1,3 +1,3 @@
 # HUBIr
 
-Projeto para IH 2017.1 UFRPE
+Projeto para IH 2017.1 - UFRPE
